@@ -26,7 +26,7 @@ A **Power BI Dashboard** that analyzes **Student Fees Reimbursement** data to un
 - Data Visualization & Storytelling  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](https://drive.google.com/file/d/1fMu97FFMG9D3ckXM2Gnsfy1mxxwV8mcA/view?usp=drive_link)
+[Dashboard Screenshot](https://drive.google.com/file/d/1fMu97FFMG9D3ckXM2Gnsfy1mxxwV8mcA/view?usp=drive_link)
 
 ---
 
